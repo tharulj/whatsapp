@@ -1,0 +1,22 @@
+{
+  "name": "leeztc",
+  "version": "1.0.0",
+  "description": "The official website of InfoStorage made by LeezTC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharulj/whatsapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharulj/whatsapp/issues"
+  },
+  "homepage": "https://github.com/tharulj/whatsapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
